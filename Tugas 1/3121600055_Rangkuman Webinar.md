@@ -1,5 +1,5 @@
-#Workshop Administrasi  Jaringan
-##Tugas 1 – Summary Webinar
+**Workshop Administrasi  Jaringan**
+***Tugas 1 – Summary Webinar***
 
 ![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%201/img/logo_pens.png)
 
@@ -12,7 +12,7 @@ Muhammad Hafid Azis
 Komputasi awan adalah model yang menawarkan layanan komputasi instan tanpa menanggung biaya. Namun demikian, seperti teknologi lainnya, ia membawa kekurangannya. Salah satu masalah utama adalah masalah keamanan dan privasi termasuk kebocoran data karena infrastruktur sumber daya komputasi bersama untuk memproses informasi bisnis rahasia - seperti kekayaan intelektual, rahasia dagang, dan informasi rahasia pelanggan, yang dapat menyebabkan aktor yang tidak berwenang dapat mengaksesnya.
 
 
-(1) ANCAMAN
++ **(1) ANCAMAN**
 1.1 Kehilangan Data dan Kebocoran Data
 
 Sebagian besar fitur perlindungan data cloud untuk perusahaan ditawarkan secara terpisah sebagai layanan opsional dan layanan tambahan, misalnya penyimpanan tambahan untuk penyimpanan snapshot dan anti ransomware karena sumber daya yang luas dan mahal
@@ -29,7 +29,7 @@ Memanfaatkan API yang tidak aman di lingkungan multitenancy dapat meningkatkan r
 
 Penyedia layanan cloud menggunakan infrastruktur yang dapat diskalakan untuk mendukung banyak penyewa yang berbagi infrastruktur yang mendasarinya. Pada lapisan terendah, di mana hypervisor dapat dieksploitasi dari mesin virtual yang disusupi disewa lain untuk mendapatkan akses ke semua VM di lingkungan bersama yang sama.
 
-(2) SERANGAN
++ **(2) SERANGAN**
 2.1. Serangan Tingkat Mesin Virtual;
 
 Serangan pada platform Cloud yang sama dapat mempengaruhi penyewa lainnya. Wajib bagi penyebaran Cloud apa pun untuk mengeraskan lapisan virtualisasi untuk mencegah serangan VM ke VM.
@@ -38,7 +38,7 @@ Serangan pada platform Cloud yang sama dapat mempengaruhi penyewa lainnya. Wajib
 
 2.3. Manusia di Awan dan DDoS;
 
-(3) KEAMANAN
++ **(3) KEAMANAN**
 
 3.1. Lapisan Kontrol Awan:
 
@@ -48,7 +48,7 @@ Gunakan lapisan kontrol tambahan dalam manajemen Cloud dari 3% penyedia solusi p
 
 Gunakan "perjanjian back-to-back" dengan Penyedia Cloud Anda untuk memastikan kepatuhan standar keamanan penuh.
 
-(4) ALAT-ALAT
++ **(4) ALAT-ALAT**
 
 Keamanan yang Ditetapkan Perangkat Lunak; yakinkan kembali solusi Keamanan Cloud tertinggi yang tersedia.
 
@@ -56,7 +56,7 @@ Otentikasi Multifaktor; Kemajuan AAA untuk setiap Lapisan Cloud misalnya kombina
 
 Inspeksi dan Pemantauan; penilaian pendapat kedua.
 
-(5) TES
++ **(5) TES**
 
 Isolasi Sumber Daya Cloud; mencegah serangan pivot VM ke VM.
 
@@ -68,7 +68,7 @@ Periksa Masalah Kepatuhan; hindari sanksi dan hukuman.
 
 Periksa Integritas Data, Retensi, dan Pembuangan; mencegah kebocoran dan kerugian.
 
-RINGKASAN:
++ **RINGKASAN:**
 
 Diskusi ini menyampaikan masalah keamanan yang terkait dengan layanan cloud. Tercatat bahwa penjahat siber telah memanfaatkan kerentanan dalam ekosistem bersama dan kurangnya kontrol keamanan yang efektif, yang mengarah pada penyalahgunaan platform. Peretas dapat secara ilegal mengakses informasi rahasia dari penyewa lain yang berada di infrastruktur cloud yang sama. Oleh karena itu, perusahaan disarankan untuk melakukan penilaian risiko berkelanjutan untuk mengurangi potensi ancaman terhadap data sensitif mereka. Selain itu, penyedia keamanan cloud harus meningkatkan perlindungan keamanan melalui penerapan langkah-langkah keamanan proaktif yang lebih canggih dan canggih untuk mengatasi tantangan ini.
 
