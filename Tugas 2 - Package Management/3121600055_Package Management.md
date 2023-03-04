@@ -48,7 +48,7 @@ Capture penggunaan SU :
 
 SUDO adalah singkatan dari "superuser do". Perintah ini memungkinkan pengguna biasa untuk menjalankan perintah sebagai superuser atau root dengan memasukkan kata sandi. Dengan menggunakan SUDO, pengguna dapat menjalankan perintah yang memerlukan hak akses penuh tanpa harus keluar dari akun pengguna biasa.
 
-Capture penggunaan SU : 
+Capture penggunaan SUDO : 
 ![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%202%20-%20Package%20Management/img/Screen%20Shot%202023-03-04%20at%2011.20.02.png)
 
 ![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%202%20-%20Package%20Management/img/Screen%20Shot%202023-03-04%20at%2011.21.06.png)
