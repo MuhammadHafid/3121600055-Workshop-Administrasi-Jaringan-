@@ -1,13 +1,11 @@
-**Workshop Administrasi  Jaringan**
-
-***Tugas 1 – Summary Webinar***
+# Tugas 2 – Summary Webinar
 
 ![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%201/img/logo_pens.png)
 
 Disusun oleh :
 
-Muhammad Hafid Azis
-3121600055 / 2 D4 IT B
+**Muhammad Hafid Azis**
+**3121600055 / 2 D4ITB**
 
 ----------------------------------------------------------------------
 
