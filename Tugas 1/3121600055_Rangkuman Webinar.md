@@ -1,5 +1,5 @@
-Workshop Administrasi         Jaringan
-Tugas 2 – Summary Webinar
+#Workshop Administrasi  Jaringan
+##Tugas 1 – Summary Webinar
 
 ![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%201/img/logo_pens.png)
 
@@ -7,7 +7,7 @@ Disusun oleh :
 Muhammad Hafid Azis
 3121600055 / 2 D4 IT B
 
-Politeknik Elektronika Negeri Surabaya
+----------------------------------------------------------------------
 
 Komputasi awan adalah model yang menawarkan layanan komputasi instan tanpa menanggung biaya. Namun demikian, seperti teknologi lainnya, ia membawa kekurangannya. Salah satu masalah utama adalah masalah keamanan dan privasi termasuk kebocoran data karena infrastruktur sumber daya komputasi bersama untuk memproses informasi bisnis rahasia - seperti kekayaan intelektual, rahasia dagang, dan informasi rahasia pelanggan, yang dapat menyebabkan aktor yang tidak berwenang dapat mengaksesnya.
 
