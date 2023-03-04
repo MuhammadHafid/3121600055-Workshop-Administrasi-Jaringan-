@@ -1,7 +1,7 @@
 Workshop Administrasi         Jaringan
 Tugas 2 – Summary Webinar
 
-![alt text](/img/logo_pens.png)
+![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%201/img/logo_pens.png)
 
 Disusun oleh :
 Muhammad Hafid Azis
