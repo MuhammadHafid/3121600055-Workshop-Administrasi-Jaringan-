@@ -1,6 +1,6 @@
 # Tugas 2 – Summary Webinar
 
-![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%201/img/logo_pens.png)
+![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%202%20-%20Package%20Management/img/logo_pens.png)
 
 Disusun oleh :
 
