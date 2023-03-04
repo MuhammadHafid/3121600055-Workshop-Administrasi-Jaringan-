@@ -43,7 +43,15 @@ The newest version of Debian is Debian 11 "Bullseye", which was released on Augu
 
 SU (super user) adalah perintah untuk masuk ke dalam akun root yang memberikan hak akses penuh ke sistem operasi. Namun, penggunaan SU harus hati-hati karena kesalahan dapat menyebabkan kerusakan pada sistem operasi.
 
+Capture penggunaan SU : 
+![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%202%20-%20Package%20Management/img/Screen%20Shot%202023-03-04%20at%2011.18.53.png)
+
 SUDO adalah singkatan dari "superuser do". Perintah ini memungkinkan pengguna biasa untuk menjalankan perintah sebagai superuser atau root dengan memasukkan kata sandi. Dengan menggunakan SUDO, pengguna dapat menjalankan perintah yang memerlukan hak akses penuh tanpa harus keluar dari akun pengguna biasa.
+
+Capture penggunaan SU : 
+![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%202%20-%20Package%20Management/img/Screen%20Shot%202023-03-04%20at%2011.20.02.png)
+
+![alt text](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%202%20-%20Package%20Management/img/Screen%20Shot%202023-03-04%20at%2011.21.06.png)
 
 SUDO SU sebenarnya tidak ada. Namun, pengguna dapat menggunakan perintah `sudo su` untuk masuk ke dalam akun root dengan hak akses penuh. Hal ini dapat berguna dalam situasi di mana pengguna ingin menjalankan beberapa perintah sebagai root tanpa harus keluar dari akun pengguna biasa dan masuk ke dalam akun root dengan perintah `su`.
 
