@@ -113,4 +113,4 @@ Berikut adalah summary dari setting yang sudah disetting tadi
 
 Setelah install virtualbox dan setting virtual machine, install OS ubuntu pada virtual machine yang sudah dibuat. Berikut tampilan awal OS Ubuntu setelah diinstall.
 
-![Langkah 17](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%203%20-%20Konfigurasi%20Router%20Real/img/16.jpeg)
+![Langkah 17](https://github.com/MuhammadHafid/3121600055-Workshop-Administrasi-Jaringan-/blob/main/Tugas%203%20-%20Konfigurasi%20Router%20Real/img/17.jpeg)
