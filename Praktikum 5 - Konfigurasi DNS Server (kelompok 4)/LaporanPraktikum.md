@@ -22,7 +22,7 @@ TAHUN 2023
 <br><br><br>
 
 # Topologi
-![Topologi](img/Topologi.jpg)
+![Topologi](img/Topologi.jpeg)
 
 ### 1. Instalasi Paket DNS Server
 Untuk konfigurasi DNS Server, pertama yang dilakukan adalah melakukan instalasi beberapa paket seperti:<br>
