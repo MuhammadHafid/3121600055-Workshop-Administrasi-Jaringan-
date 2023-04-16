@@ -21,7 +21,7 @@ TAHUN 2023
 </p>
 <br><br><br>
 
-### Video Demo Final Konfigurasi DNS 👇👇
+### Klik Image link dibawah ini untuk direct ke Video 👇👇
 <br>
 
 [![Video Demo Konfigirasi DNS](capture.jpeg)](https://drive.google.com/file/d/1AagLEwxL0sOj7MhJNhXNCLD1_M4knN3W/view?usp=sharing)
