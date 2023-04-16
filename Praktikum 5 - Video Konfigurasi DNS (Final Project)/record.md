@@ -24,4 +24,4 @@ TAHUN 2023
 ### Video Demo Final Konfigurasi DNS 👇👇
 <br>
 
-[![Video Demo Konfigirasi DNS](Praktikum 4 - Konfigurasi DNS Server (kelompok 4)/img/29.jpeg)](https://drive.google.com/file/d/1AagLEwxL0sOj7MhJNhXNCLD1_M4knN3W/view?usp=sharing)
+[![Video Demo Konfigirasi DNS](capture.jpeg)](https://drive.google.com/file/d/1AagLEwxL0sOj7MhJNhXNCLD1_M4knN3W/view?usp=sharing)
