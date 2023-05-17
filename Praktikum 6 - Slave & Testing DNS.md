@@ -22,7 +22,7 @@ TAHUN 2023
 <br><br><br>
 
 Pada langkah pertama yang dilakukan yaitu buka direktori /etc/bind, kemudian buka file named.conf.local
-![1](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6/1.png)
+![1](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/1.png)
 
 Selanjutnya tambahkan kode berikut pada file tersebut
 ``sh
@@ -32,17 +32,17 @@ zone "kampus-04.takehome.com" {
     allow-transfer {10.252.108.212;};
 };
 ``
-![2]([img/praktikum6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6)/2.png)
+![2](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/2.png)
 <br>Pada konfigurasi diatas fungsinya untuk mengatur server DNS BIND di Linux untuk zona "kampus-04.takehome.com" sebagai master dan menunjuk ke file db.kampus-04.takehome.com sebagai sumber data untuk zona tersebut.
 
 Kemudian penambahan allow-transfer {10.252.108.212;}; Pada konfigurasi zona tersebut digunakan untuk memberi izin transfer zona ke alamat IP 10.252.108.212 yang memungkinkan server DNS lain untuk menyalin catatan zona tersebut, yang fungsinya untuk melakukan sinkronisasi zona antara server DNS yang berbeda. Agar server DNS lain yang memiliki IP 10.252.108.212 dapat menyalin catatan di zona "kampus-04.takehome.com" dari server DNS BIND ini.
 
 Selanjutnya masuk ke direktori /var/cache/bind dan pastikan file "db.kampus-04.takehome.com" telah terkonfigurasi
 <br>
-![3]([img/praktikum6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6)/3.png)
+![3](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/3.png)
 <br>
 
-![4]([img/praktikum6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6)/4.png)
+![4](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/4.png)
 <br>
 ## INSTALASI WEB SERVER
 
@@ -212,9 +212,9 @@ Coba menjalankan Project Laravel di client, menggunakan perintah :
 php artisan serve --host=192.168.4.10 --port=8000
 ```
 
-![6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6/6.jpg)
+![6](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/6.png)
 
 
 ## TESTING DNS - 
 Langkah terakhir untuk menguji apakah konfigurasi dari DNS sudah berjalan adalah dengan mengecek pada komputer lain yang berbeda jaringan dengan memasukkan ip dan port yang sudah digunakan tadi, apakah tampilan web muncul atau tidak. Jika muncul maka konfigurasi berhasil dijalankan. Seperti gambar dibawah ini.
-![6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6/5.png)
+![5](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/5.png)
