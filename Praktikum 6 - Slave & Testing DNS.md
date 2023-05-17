@@ -212,9 +212,9 @@ Coba menjalankan Project Laravel di client, menggunakan perintah :
 php artisan serve --host=192.168.4.10 --port=8000
 ```
 
-![6]([img/praktikum6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6)/6.jpg)
+![6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6/6.jpg)
 
 
 ## TESTING DNS - 
 Langkah terakhir untuk menguji apakah konfigurasi dari DNS sudah berjalan adalah dengan mengecek pada komputer lain yang berbeda jaringan dengan memasukkan ip dan port yang sudah digunakan tadi, apakah tampilan web muncul atau tidak. Jika muncul maka konfigurasi berhasil dijalankan. Seperti gambar dibawah ini.
-![6](img/praktikum6/5.png)
+![6](https://github.com/hanifnabila/Administrasi-Jaringan/tree/main/img/praktikum6/5.png)
