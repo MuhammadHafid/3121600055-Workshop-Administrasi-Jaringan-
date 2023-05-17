@@ -212,7 +212,7 @@ Coba menjalankan Project Laravel di client, menggunakan perintah :
 php artisan serve --host=192.168.4.10 --port=8000
 ```
 
-![6](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/6.png)
+![6](https://github.com/hanifnabila/Administrasi-Jaringan/blob/main/img/praktikum6/6.jpg)
 
 
 ## TESTING DNS - 
